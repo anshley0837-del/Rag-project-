@@ -1,0 +1,61 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual Environment
+vevn-rag/
+venv/
+.venv/
+env/
+
+# Environment Variables / API Keys
+.env
+.env.*
+!.env.example
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# RAG / Vector Databases
+chroma/
+chroma_db/
+vectorstore/
+vectordb/
+*.faiss
+*.pkl
+
+# Local Databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs
+*.log
+logs/
+
+# Build files
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Uploaded documents / local data
+uploads/
+cache/
+
+venv-rag/
