@@ -126,7 +126,8 @@ Deployed as two separate free-tier services, keeping the backend/frontend split 
 1. New app → this repo → main file: `frontend/app.py`
 2. Advanced settings → Secrets:
    ```
-   BACKEND_URL = "https://<your-render-backend>.onrender.com/ask"
+   BACKEND_URL = "https://groot-7.onrender.com"
+   FRONTEND_URL = "https://drkf532zs6nsv6yepa5fki.streamlit.app/"
    ```
 
 ---
