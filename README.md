@@ -13,8 +13,8 @@ A modular, interview-ready **Retrieval-Augmented Generation (RAG)** system where
 
 ## 🌟 Live Demo
 
-- **UI:** *(add your Streamlit Community Cloud link here after deploying)*
-- **API docs:** *(add your Render backend URL + `/docs` here)*
+- **UI:** (https://drkf532zs6nsv6yepa5fki.streamlit.app/)
+- **API docs:** *(https://groot-7.onrender.com `/docs` here)*
 
 ---
 
@@ -102,7 +102,8 @@ Then:
 ## 📚 API Documentation
 
 Once the backend is running, the interactive Swagger UI is available at:
-👉 `http://localhost:8000/docs`
+👉 https://groot-7.onrender.com
+
 
 ---
 
